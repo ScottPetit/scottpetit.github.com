@@ -4,13 +4,15 @@ title: Shipping an iOS Newsstand App
 category: posts
 ---
 
-This past Thursday, March 14th 2013, I shipped [The Box Seats][boxseats].  It was started about 5 months prior (the first commit was November 1st).  Despite the fact that it looks pretty good and functions as expected, the thing I'm most proud of is that it shipped.  It's in the store, you can [download][boxseats] it, you can subscribe to it, it's a real thing.
+This past Thursday, March 14th, I shipped [The Box Seats][boxseats].  It was started about 5 months prior (the first commit was November 1st).  Despite the fact that it looks pretty good and functions as expected, the thing I'm most proud of is that it shipped.  It's in the store, you can [download it][boxseats], you can subscribe to it, it's a real thing.
 
-That pride does not mean satisfaction though.  It's not as good as it should be.  First off it's design was greatly inspired by Marco Arment's [The Magazine][themagazine].  The discussion on this will certainly be divisive, and deservedly so.  My stance?  I, a sole developer, shipped an app, developed and designed 99.5% by me (the logo was done by [Jenni Leder][thoughtbrain]) and I think that's more important.
+That pride does not mean satisfaction though.  It's not as good as it should be.  First off it's design was greatly inspired by Marco Arment's [The Magazine][themagazine].  The discussion on this will certainly be divisive, and deservedly so.  My stance?  I, a sole developer, shipped an app, developed and designed 99.5% by me (the logo was done by the amazing [Jenni Leder][thoughtbrain]) and that's what matters to me.
 
-As far as the code goes, it's version 1.0 code.  It's going to get better just like the design.  The hard thing though is right now, being content with an app design that isn't innovative and code that isn't perfect.
+As far as the code goes, it's version 1.0 code.  It's not as optimized as it should be.  The way it handles hiding and showing the status bar isn't good enough.  At times scrolling isn't as responsive as it should be, particularly when switching between stories.  It's going to get better just like the design.  
 
-In essence there are these two opposing forces between designing the [back of a cabinet][cabinet] and actually having a cabinet.  I think I'm finally settling on having a cabinet but improving it, every day, until I'm as proud of the back as I am of the front.  And that day will come, in the meantime I shipped an app and you can get it [here][boxseats]
+That's the hard thing though, being content with an app design that isn't innovative and code that isn't perfect.
+
+In essence there are these two opposing forces between designing the [back of a cabinet][cabinet] and actually having a cabinet.  I think I'm finally settling on having a cabinet but improving it, every day, until I'm as proud of the back as I am of the front.  And that day will come, in the meantime I shipped an app and you can get it [here][boxseats].
 
 [boxseats]: http://bit.ly/BoxSeats
 [themagazine]: https://itunes.apple.com/us/app/magazine-for-geeks-like-us./id557744510?mt=8
